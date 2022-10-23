@@ -1,0 +1,6 @@
+# Default values for hawkeye-chart.
+argocd:
+  ingress:
+    host: ""
+acme:
+  email: ""
